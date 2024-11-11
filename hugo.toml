@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://traviole.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'traviole/travels'
 theme = 'hugo-theme-stack'
 # Any value from themes/hugo-theme-stack/config.yaml can be
 # overridden here. See also https://stack.jimmycai.com/config/
