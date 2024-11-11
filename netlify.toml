@@ -4,4 +4,4 @@ TZ = "Europe/Zurich"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify && exiftool -gps:all= -xmp:geotag= public/**/*.jpg"
+command = "hugo --gc --minify && exiftool -r -gps:all= -xmp:geotag= public/"
