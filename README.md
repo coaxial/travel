@@ -6,42 +6,65 @@ The Galoblog to share travel pictures.
 
 ## Run locally
 
-### Installing `hugo`
+### Install `hugo`
 
 ```
 cd /tmp && wget -O - $(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*extended_[0-9].*linux-amd64.tar.gz" | cut -d '"' -f 4) | tar xf && sudo mv /tmp/hugo /usr/local/bin/hugo && cd -
 
 ```
-`hugo version` should now work. It must be at least v0.138.0 extended.
+`hugo version` should now work. It must be at least v0.138.0
+extended.
 
 ### Run the dev server
 
-`hugo -D` and open browser at http://localhost:1313
+`hugo server -D` and open browser at http://localhost:1313
 
 The dev version auto refreshes and updates with changes.
 
-This will also show posts that have `draft = true` locally but they won't show in production unless `draft = false`.
+This will also show posts that have `draft = true` locally but they
+won't show in preview norproduction unless `draft = false`.
 
 ## Create a new post
+
+### Make a branch
+
+`$ git checkout master && git pull && git checkout -b <branch
+name>`
+
+### Create the files
 
 `$ hugo new content content/post/<post name>/index.md`
 
 Then add images under `content/post/<post name>/<image name>`
 
-## Include image in post
+### Edit the post
+
+If server not started: `hugo server -D`, visit
+http://localhost:1313/
+
+Edit file at `content/post/<post name>/index.md` [Markdown
+cheatsheet](https://www.markdownguide.org/cheat-sheet/).
+
+For more shortcodes, see [Hugo
+docs](https://gohugo.io/content-management/shortcodes/) and [theme
+docs](https://stack.jimmycai.com/writing/shortcodes).
+
+## Include images in post
+
+With images in `content/post/<post name>/<image name>`
 
 ```markdown
 {{< figure src="<image name>" title="Image title/description"
 width="500px" >}}
 ```
+## Prepare post publication
 
-For more shortcodes, see [Hugo docs](https://gohugo.io/content-management/shortcodes/) and [theme docs](https://stack.jimmycai.com/writing/shortcodes).
-
-## Publish post
-
-- Change `draft = true` to `draft = false` in the post's front matter
-- Commit and push to branch
-- Create a PR
-- Review preview deploy in PR
+- `$ git add . && git commit -m "Descriptive commit message"`
+- On GitHub, create a pull request
+- Wait for it to build and check the preview link in the comment
 - Iterate
-- Merge to `master`
+
+## Publish post to prod
+- Change `draft = true` to `draft = false` in post's frontmatter
+- Commit and push change to branch
+- Merge to `master` (will autodelete the branch and push to prod)
