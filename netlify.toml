@@ -5,3 +5,6 @@ TZ = "Europe/Zurich"
 [build]
 publish = "public"
 command = "hugo --gc --minify && exiftool -r -gps:all= -xmp:geotag= public/"
+
+[[plugins]]
+package = "netlify-plugin-image-optim"
