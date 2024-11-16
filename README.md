@@ -50,7 +50,7 @@ Edit file at `content/<gallery name>/index.md` (see [theme frontmatter docs](htt
 
 ## Include images in post
 
-Put the images in the gallery's directory and order them using the frontmatter in `index.md` (featured image is the cover image, resources array orders images.
+Put the images in the gallery's directory and order them using the frontmatter in `index.md` (featured image is the cover image, resources array orders images. See [theme docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#usage).
 
 ## Prepare post publication
 
