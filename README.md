@@ -21,8 +21,8 @@ extended.
 
 The dev version auto refreshes and updates with changes.
 
-This will also show posts that have `draft = true` locally but they
-won't show in preview norproduction unless `draft = false`.
+This will also show posts that have `draft: true` locally but they
+won't show in preview norproduction unless `draft: false`.
 
 ## Create a new post
 
@@ -46,7 +46,7 @@ See [theme docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-
 If server not started: `hugo server -D`, visit
 http://localhost:1313/
 
-Edit file at `content/<gallery name>/index.md` (see [theme frontmatter docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#front-matter).
+Edit file at `content/<gallery name>/index.md` (see [theme frontmatter docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#front-matter).)
 
 ## Include images in post
 
