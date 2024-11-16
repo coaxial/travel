@@ -9,7 +9,7 @@ The Galoblog to share travel pictures.
 ### Install `hugo`
 
 ```
-cd /tmp && wget -O - $(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*extended_[0-9].*linux-amd64.tar.gz" | cut -d '"' -f 4) | tar xf && sudo mv /tmp/hugo /usr/local/bin/hugo && cd -
+cd /tmp && wget -O - $(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*extended_[0-9].*linux-amd64.tar.gz" | cut -d '"' -f 4) | tar xz && sudo mv /tmp/hugo /usr/local/bin/hugo && cd -
 
 ```
 `hugo version` should now work. It must be at least v0.138.0
