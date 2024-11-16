@@ -21,8 +21,8 @@ extended.
 
 The dev version auto refreshes and updates with changes.
 
-This will also show posts that have `draft = true` locally but they
-won't show in preview norproduction unless `draft = false`.
+This will also show posts that have `draft: true` locally but they
+won't show in preview norproduction unless `draft: false`.
 
 ## Create a new post
 
@@ -33,30 +33,25 @@ name>`
 
 ### Create the files
 
-`$ hugo new content content/post/<post name>/index.md`
+Decide which of the two gallery types you want (see [docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#usage) and run the command (use `index.md` or `_index.md` depending on gallery type)
 
-Then add images under `content/post/<post name>/<image name>`
+`$ hugo new content content/<gallery name>/index.md`
+
+Then add images under `content/<gallery name>/<image name>`
+
+See [theme docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#usage) for the file organization structure.
 
 ### Edit the post
 
 If server not started: `hugo server -D`, visit
 http://localhost:1313/
 
-Edit file at `content/post/<post name>/index.md` [Markdown
-cheatsheet](https://www.markdownguide.org/cheat-sheet/).
-
-For more shortcodes, see [Hugo
-docs](https://gohugo.io/content-management/shortcodes/) and [theme
-docs](https://stack.jimmycai.com/writing/shortcodes).
+Edit file at `content/<gallery name>/index.md` (see [theme frontmatter docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#front-matter).)
 
 ## Include images in post
 
-With images in `content/post/<post name>/<image name>`
+Put the images in the gallery's directory and order them using the frontmatter in `index.md` (featured image is the cover image, resources array orders images. See [theme docs](https://github.com/nicokaiser/hugo-theme-gallery?tab=readme-ov-file#usage).
 
-```markdown
-{{< figure src="<image name>" title="Image title/description"
-width="500px" >}}
-```
 ## Prepare post publication
 
 - `$ git add . && git commit -m "Descriptive commit message"`
@@ -65,6 +60,6 @@ width="500px" >}}
 - Iterate
 
 ## Publish post to prod
-- Change `draft = true` to `draft = false` in post's frontmatter
+- Change `draft: true` to `draft: false` in post's frontmatter
 - Commit and push change to branch
 - Merge to `master` (will autodelete the branch and push to prod)
