@@ -6,6 +6,14 @@ The Galoblog to share travel pictures.
 
 ## Run locally
 
+### Clone repo
+
+```
+$ git clone git@github.com:coaxial/travel.git
+$ cd travel
+$ git submodule update --init --recursive
+```
+
 ### Install `hugo`
 
 ```
