@@ -1,5 +1,0 @@
-{{ if hugo.IsProduction }}
-  {{ $domain := (printf "%s" .Site.BaseURL | urls.Parse).Hostname }}
-  <script defer data-domain="{{ $domain }}" src="https://plausible.io/js/script.outbound-links.js"></script>
-  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
-{{ end }}
