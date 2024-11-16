@@ -71,3 +71,7 @@ Put the images in the gallery's directory and order them using the frontmatter i
 - Change `draft: true` to `draft: false` in post's frontmatter
 - Commit and push change to branch
 - Merge to `master` (will autodelete the branch and push to prod)
+
+## Update theme
+
+`$git submodule update --remote --merge`
