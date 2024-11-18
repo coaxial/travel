@@ -1,6 +1,6 @@
 ---
 date: 2024-11-16T22:14:51+01:00
-draft: true
+draft: false
 title: "Belfort"
 description: 'Album description'
 # featured_image: 'cute-cat-1.jpg'
