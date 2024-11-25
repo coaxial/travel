@@ -6,7 +6,7 @@ TZ = "Europe/Zurich"
 publish = "public"
 command = """
 convert -list font &&
-find content/ -type f \\( -iname "*.jpg" -o -iname "*.jpeg" \\) -print -exec convert {} -font "DejaVu-Sans" -gravity SouthEast -pointsize 72 -fill "#fffdc3" -annotate +10+10 "CC BY-NC-SA Traviole" {} \\; &&
+find content/ -type f \\( -iname "*.jpg" -o -iname "*.jpeg" \\) -print -exec convert {} -font "DejaVu-Sans" -gravity SouthEast -pointsize 72 -fill "#fffdc3" -annotate +10+10 "CC BY-NC-SA-ND Traviole" {} \\; &&
 hugo --gc --minify && 
 exiftool -r -gps:all= -xmp:geotag= public/
 """
