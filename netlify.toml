@@ -4,7 +4,9 @@ TZ = "Europe/Zurich"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify && exiftool -r -gps:all= -xmp:geotag= public/"
+command = """hugo --gc --minify && 
+exiftool -r -gps:all= -xmp:geotag= public/ && 
+find public/ -type f \( -iname "*.JPG" -o -iname "*.jpeg" \) -exec convert {} -gravity SouthEast -pointsize 72 -fill "#fffdc3" -annotate +10+10 "© Traviole" {}"""
 
 [[plugins]]
 package = "netlify-plugin-image-optim"
