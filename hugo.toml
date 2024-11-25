@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'traviole/travels'
 theme = 'gallery'
 copyright = 'All images under CC BY-NC-ND license'
+[params]
+defaultTheme = "dark"
