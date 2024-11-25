@@ -2,12 +2,4 @@ baseURL = 'https://traviole.netlify.app/'
 languageCode = 'en-us'
 title = 'traviole/travels'
 theme = 'gallery'
-# Any value from themes/hugo-theme-stack/config.yaml can be
-# overridden here. See also https://stack.jimmycai.com/config/
-# and use a YAML to TOML converter.
-[params.sidebar]
-subtitle = 'You can change or remove me in hugo.toml'
-[params.sidebar.avatar]
-src = 'img/avatar.jpg' # default is img/avatar.png
-[params.article.license]
-enabled = true
+copyright = 'All images under CC BY-NC-SA licence'
