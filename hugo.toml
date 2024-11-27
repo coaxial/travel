@@ -1,6 +1,6 @@
 baseURL = 'https://traviole.netlify.app/'
 languageCode = 'en-us'
-title = 'traviole/travels'
+title = 'Traviole/Travels'
 theme = 'gallery'
 copyright = 'All images under CC BY-NC-ND license'
 [params]
