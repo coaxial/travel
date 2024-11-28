@@ -1,6 +1,6 @@
 ---
 date: '2024-11-08T22:01:30+02:00'
-draft: false
+draft: true
 title: 'Album title'
 description: 'Album description'
 featured_image: 'cute-cat-1.jpg'
