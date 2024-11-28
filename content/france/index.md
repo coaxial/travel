@@ -55,7 +55,7 @@ resources:
 - src: B_IMG_3082.JPEG
   title: Octeville-Sur-Mer
 
-- src: B_IMG_3117.JPG
+- src: B_IMG_3117.JPEG
   title: Octeville-Sur-Mer  
 
 - src: B_IMG_3152.JPEG
