@@ -2,7 +2,6 @@
 title: France
 featured: true
 private: true # do not show in list, only as feature
-# params.featured_image: C_IMG_2618_feature.JPEG
 
 resources:
 
@@ -24,7 +23,6 @@ resources:
 
 - src: A_IMG_2506.JPEG
   title: Belfort
-
 
 # Octeville-Sur-Mer
 - src: B_IMG_2726.JPEG
@@ -63,8 +61,7 @@ resources:
 - src: B_IMG_3152.JPEG
   title: Octeville-Sur-Mer
 
-
-# /Le Havre
+# Le Havre
 - src: C_IMG_2618_feature.JPEG
   title: Le Havre
 
