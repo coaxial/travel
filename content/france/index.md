@@ -6,6 +6,7 @@ private: true # do not show in list, only as feature
 
 resources:
 
+# Belfort
 - src: A_IMG_2493.JPEG
   title: Belfort
 
@@ -25,7 +26,7 @@ resources:
   title: Belfort
 
 
-
+# Octeville-Sur-Mer
 - src: B_IMG_2726.JPEG
   title: Octeville-Sur-Mer
 
@@ -50,9 +51,6 @@ resources:
 - src: B_IMG_3061.JPEG
   title: Octeville-Sur-Mer
 
-- src: B_IMG_3062.JPEG
-  title: Octeville-Sur-Mer
-
 - src: B_IMG_3064.JPEG
   title: Octeville-Sur-Mer
 
@@ -66,7 +64,7 @@ resources:
   title: Octeville-Sur-Mer
 
 
-
+# /Le Havre
 - src: C_IMG_2618_feature.JPEG
   title: Le Havre
 
