@@ -2,9 +2,10 @@
 title: France
 featured: true
 private: true # do not show in list, only as feature
+params:
+  sort_order: desc
 
 resources:
-
 # Belfort
 - src: A_IMG_2493.JPEG
   title: Belfort
@@ -109,4 +110,50 @@ resources:
 - src: C_xyourphoto.jpg
   title: |
     Le Havre: We tried our hand at impressionism in MuMa (Museum of Modern Art).
+
+# Fécamp
+- src: D_IMG_0736.JPEG
+  title: Fécamp
+
+- src: D_IMG_2736.JPEG
+  title: Fécamp
+
+- src: D_IMG_2737.JPEG
+  title: Fécamp
+
+- src: D_IMG_2745.JPEG
+  title: Fécamp
+
+- src: D_IMG_2746.JPEG
+  title: Fécamp
+
+- src: D_IMG_2770.JPEG
+  title: Fécamp
+
+- src: D_IMG_2777.JPEG
+  title: Fécamp
+
+- src: D_IMG_2779.JPEG
+  title: Fécamp
+
+- src: D_IMG_2789.JPEG
+  title: Fécamp
+
+- src: D_IMG_2799.JPEG
+  title: |
+    Fécamp: Claude Monet created a series of paintings depicting the Normandy coast, and [Coast at Fécamp](https://www.myartprints.com/kunst/claude_monet/coast_a_fcamp_-monet.jpg) was one of them.
+
+- src: D_IMG_2801.JPEG
+  title: Fécamp
+
+- src: D_IMG_2802.JPEG
+  title: Fécamp
+
+- src: D_IMG_2805.JPEG
+  title: |
+    Fécamp: The Palais Bénédictine is the only distillery for the Bénédictine liqueur. It was built just to make the liqueur look more prestigious.
+
+- src: D_IMG_2806.JPEG
+  title: Fécamp
+
 ---
