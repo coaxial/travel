@@ -137,11 +137,11 @@ resources:
   title: Fécamp
 
 - src: D_IMG_2789.JPEG
-  title: Fécamp
+  title: Fécamp (Alabaster Coast)
 
 - src: D_IMG_2799.JPEG
   title: |
-    Fécamp: Claude Monet created a series of paintings depicting the Normandy coast, and [Coast at Fécamp](https://www.myartprints.com/kunst/claude_monet/coast_a_fcamp_-monet.jpg) was one of them.
+    Fécamp (Alabaster Coast): Claude Monet created a series of paintings depicting the Normandy coast, and "Coast at Fécamp" was one of them.
 
 - src: D_IMG_2801.JPEG
   title: Fécamp
