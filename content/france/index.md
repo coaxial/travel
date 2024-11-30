@@ -175,7 +175,7 @@ resources:
 
 - src: E_IMG_2938.JPEG
   title: |
-    Sainte-Adresse: Fallen blockhouse on the beach.
+    Sainte-Adresse: Fallen blockhouse that were part of the German Atlantic Wall built during World War II.
 
 - src: E_IMG_2966.JPEG
   title: Sainte-Adresse
