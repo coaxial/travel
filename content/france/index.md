@@ -253,4 +253,17 @@ resources:
 - src: I_IMG_3307.JPEG
   title: |
     Lille: "The Tulips of Shangri-La" is a sculpture by Japanese artist Yayoi Kusama, known for her iconic polka-dot designs.
+
+# Le Tréport
+- src: J_IMG_3501.JPEG
+  title: Le Tréport
+
+- src: J_IMG_3504.JPEG
+  title: Le Tréport
+
+- src: J_IMG_3506.JPEG
+  title: Le Tréport
+
+- src: J_IMG_3510.JPEG
+  title: Le Tréport
 ---
