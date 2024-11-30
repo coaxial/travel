@@ -248,4 +248,9 @@ resources:
 - src: H_IMG_3301.JPEG
   title: |
     Amiens: The colorful district of Saint-Leu.
+
+# Lille
+- src: I_IMG_3307.JPEG
+  title: |
+    Lille: "The Tulips of Shangri-La" is a sculpture by Japanese artist Yayoi Kusama, known for her iconic polka-dot designs.
 ---
