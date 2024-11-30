@@ -208,4 +208,44 @@ resources:
 
 - src: F_IMG_3192.JPEG
   title: Étretat (Alabaster Coast)
+
+# Rouen
+- src: G_IMG_0904.JPEG
+  title: Rouen
+
+- src: G_IMG_3233.JPEG
+  title: Rouen
+
+- src: G_IMG_3237.JPEG
+  title: Rouen
+
+- src: G_IMG_3246.JPEG
+  title: Rouen
+
+- src: G_IMG_3248.JPEG
+  title: |
+    Rouen: Rouen Cathedral.
+
+- src: G_IMG_3255.JPEG
+  title: |
+    Rouen: The Gros-Horloge (Great-Clock), a 14th century astronomical clock.
+
+- src: G_IMG_3260.JPEG
+  title: Rouen
+
+- src: G_IMG_3265.JPEG
+  title: |
+    Rouen: Rouen Cathedral (Cathédrale primatiale Notre-Dame de l'Assomption de Rouen) is famous for its three distinctive towers, each built in a different architectural style. In the XIX century it held the title of the tallest building in the world.
+
+# Amiens
+- src: H_IMG_3295.JPEG
+  title: Amiens
+
+- src: H_IMG_3300.JPEG
+  title: |
+    Amiens: Amiens Cathedral is the largest in France and has enough space to fit two cathedrals the size of Notre Dame in Paris.
+
+- src: H_IMG_3301.JPEG
+  title: |
+    Amiens: The colorful district of Saint-Leu.
 ---
