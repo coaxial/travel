@@ -266,4 +266,58 @@ resources:
 
 - src: J_IMG_3510.JPEG
   title: Le Tréport
+
+  # Le Crotoy
+- src: K_IMG_3533.JPEG
+  title: |
+    Le Crotoy: Beautiful sea marshes full of wild life.
+
+- src: K_IMG_3536.JPEG
+  title: Le Crotoy
+
+- src: K_IMG_3542.JPEG
+  title: Le Crotoy
+
+- src: K_IMG_3552.JPEG
+  title: Le Crotoy
+
+- src: K_IMG_3553.JPEG
+  title: Le Crotoy
+
+- src: K_IMG_3557.JPEG
+  title: |
+    Le Crotoy: Beautiful sea marshes full of wild life.
+
+- src: K_IMG_3683.JPEG
+  title: |
+    Fort-Mahon: Salicornia or so called pickleweed. Grows in salt marshes or on beaches, very tasty!
+
+# Cayeux-sur-Mer
+- src: L_IMG_3593.JPEG
+  title: |
+    Cayeux-sur-Mer: Sea kale (crambe maritima). It is related to cabbage family. It taste exactly like cabbage but salty.
+
+- src: L_IMG_3603.JPEG
+  title: Cayeux-sur-Mer
+
+- src: L_IMG_3606.JPEG
+  title: Cayeux-sur-Mer
+
+- src: L_IMG_3609.JPEG
+  title: Cayeux-sur-Mer
+
+- src: L_IMG_3612.JPEG
+  title: Cayeux-sur-Mer
+
+- src: L_IMG_3638.JPEG
+  title: |
+    Cayeux-sur-Mer: Transient art...
+
+- src: L_IMG_3659.JPEG
+  title: |
+    Cayeux-sur-Mer: Seaside snails <3.
+
+- src: L_IMG_3652.JPEG
+  title: |
+    Cayeux-sur-Mer: Seaside snail <3.
 ---
