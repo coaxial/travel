@@ -107,7 +107,7 @@ resources:
 - src: C_IMG_2694.JPEG
   title: Le Havre
 
-- src: C_xyourphoto.jpg
+- src: C_ayourphoto.jpg
   title: |
     Le Havre: We tried our hand at impressionism in MuMa (Museum of Modern Art).
 
