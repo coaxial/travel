@@ -156,4 +156,30 @@ resources:
 - src: D_IMG_2806.JPEG
   title: Fécamp
 
+  # Saint-Aresse
+
+- src: E_IMG_2916.JPEG
+  title: Sainte-Adresse
+
+- src: E_ZIMG_2917.JPEG
+  title: Sainte-Adresse is located on a cliff that looks out over the sea, offering stunning and wide views of the horizon. This setting makes it feel like you’re at the edge of the world (or "Le Bout du Monde" in French).
+
+- src: E_IMG_2919.JPEG
+  title: Sainte-Adresse
+
+- src: E_IMG_2921.JPEG
+  title: Sainte-Adresse
+
+- src: E_IMG_2922.JPEG
+  title: Sainte-Adresse
+
+- src: E_IMG_2938.JPEG
+  title: |
+    Sainte-Adresse: Fallen blockhouse on the beach.
+
+- src: E_IMG_2966.JPEG
+  title: Sainte-Adresse
+
+- src: E_IMG_2970.JPEG
+  title: Sainte-Adresse
 ---
