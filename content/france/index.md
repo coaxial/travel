@@ -6,6 +6,7 @@ params:
   sort_order: desc
 
 resources:
+
 # Belfort
 - src: A_IMG_2493.JPEG
   title: Belfort
@@ -157,12 +158,12 @@ resources:
   title: Fécamp
 
   # Saint-Aresse
-
 - src: E_IMG_2916.JPEG
   title: Sainte-Adresse
 
 - src: E_ZIMG_2917.JPEG
-  title: Sainte-Adresse is located on a cliff that looks out over the sea, offering stunning and wide views of the horizon. This setting makes it feel like you’re at the edge of the world (or "Le Bout du Monde" in French).
+  title: |
+  Sainte-Adresse: The town is located on a cliff that looks out over the sea, offering stunning and wide views of the horizon. This setting makes it feel like you’re at the edge of the world (or "Le Bout du Monde" in French).
 
 - src: E_IMG_2919.JPEG
   title: Sainte-Adresse
@@ -182,4 +183,29 @@ resources:
 
 - src: E_IMG_2970.JPEG
   title: Sainte-Adresse
+
+# Étretat
+- src: F_IMG_2608.JPEG
+  title: Étretat (Alabaster Coast)
+
+- src: F_IMG_3176.JPEG
+  title: |
+    Étretat: Beautiful donkeys we met on our hike.
+
+- src: F_IMG_3183.JPEG
+  title: |
+    Étretat (Alabaster Coast): The Manneporte Arch.
+
+- src: F_IMG_3186.JPEG
+  title: Étretat (Alabaster Coast)
+
+- src: F_IMG_3187.JPEG
+  title: |
+    Étretat (Alabaster Coast): The Manneporte Arch.
+
+- src: F_IMG_3188.JPEG
+  title: Étretat (Alabaster Coast)
+
+- src: F_IMG_3192.JPEG
+  title: Étretat (Alabaster Coast)
 ---
