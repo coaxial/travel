@@ -1,7 +1,7 @@
 ---
 title: France
-featured: true
-private: true # do not show in list, only as feature
+featured: false
+private: false # do not show in list, only as feature
 params:
   sort_order: desc
 
@@ -163,7 +163,7 @@ resources:
 
 - src: E_ZIMG_2917.JPEG
   title: |
-  Sainte-Adresse: The town is located on a cliff that looks out over the sea, offering stunning and wide views of the horizon. This setting makes it feel like you’re at the edge of the world (or "Le Bout du Monde" in French).
+    Sainte-Adresse: The town is located on a cliff that looks out over the sea, offering stunning and wide views of the horizon. This setting makes it feel like you’re at the edge of the world (or "Le Bout du Monde" in French).
 
 - src: E_IMG_2919.JPEG
   title: Sainte-Adresse
