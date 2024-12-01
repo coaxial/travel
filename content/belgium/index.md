@@ -1,7 +1,7 @@
 ---
 title: Belgium
-featured: true
-private: true # do not show in list, only as feature
+featured: false
+private: false # do not show in list, only as feature
 params:
   sort_order: desc
 
@@ -73,5 +73,4 @@ resources:
 - src: B_IMG_3753.JPEG
   title: |
     Ghent: Belfry of Ghent with a fire-breathing dragon overseeing the city (the dragon actually spits fire—only for truly big occasions, though).
-
 ---
