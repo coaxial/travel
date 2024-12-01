@@ -35,5 +35,4 @@ resources:
 
 - src: A_IMG_4158.JPEG
   title: Hondarribia
-
 ---
