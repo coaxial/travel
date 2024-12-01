@@ -322,31 +322,59 @@ resources:
     Cayeux-sur-Mer: Seaside snail <3.
 
 # Saint-Jean-de-Luz
-- src: M_IMG_1081.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
-
 - src: M_IMG_3805.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3809.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3812.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3816.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3820.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3821.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3837.JPEG
-  title: Saint-Jean-de-Luz (Basque Country)
+  title: Saint-Jean-de-Luz
 
 - src: M_IMG_3840.JPEG
   title: |
-    Saint-Jean-de-Luz (Basque Country): The Fort of Socoa.
+    Saint-Jean-de-Luz: The Fort of Socoa.
+
+# Biarritz
+- src: N_IMG_1081.JPEG
+  title: |
+    Biarritz: Grande Plage.
+
+- src: N_IMG_3872.JPEG
+  title: Biarritz
+
+- src: N_IMG_3881.JPEG
+  title: Biarritz
+
+- src: N_IMG_3882.JPEG
+  title: |
+    Biarritz: A stone bridge connecting the Rocher du Basta islet to the mainland.
+
+- src: N_IMG_3888.JPEG
+  title: Biarritz
+
+- src: N_IMG_3892.JPEG
+  title: Biarritz
+
+- src: N_IMG_3893.JPEG
+  title: Biarritz
+
+- src: N_IMG_3896.JPEG
+  title: |
+    Biarritz: Villa Belza (Black Villa in Basque language). A neo-medieval dramatic looking villa perched on the rocky coast. 
+
+- src: N_IMG_3902.JPEG
+  title: Biarritz
 ---
