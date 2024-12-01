@@ -377,4 +377,21 @@ resources:
 
 - src: N_IMG_3902.JPEG
   title: Biarritz
+
+# Bayonne
+- src: O_IMG_3917.JPEG
+  title: Bayonne
+  
+- src: O_IMG_3919.JPEG
+  title: Bayonne
+  
+- src: O_IMG_3921.JPEG
+  title: Bayonne
+  
+- src: O_IMG_3924.JPEG
+  title: Bayonne
+  
+- src: O_IMG_3925.JPEG
+  title: Bayonne
+  
 ---
