@@ -40,30 +40,38 @@ resources:
 
 # Ghent
 - src: B_IMG_1029.JPEG
-  title: Ghent
+  title: |
+    Ghent: Stunning buildings line the Graslei quay on the right bank of the Leie River.
 
 - src: B_IMG_1032.JPEG
-  title: Ghent
+  title: Ghent 💙
 
 - src: B_IMG_3737.JPEG
-  title: Ghent
+  title: |
+    Ghent: Belfry of Ghent with a fire-breathing dragon overseeing the city (the dragon actually spits fire—only for truly big occasions, though).
 
 - src: B_IMG_3743.JPEG
-  title: Ghent
+  title: |
+    Ghent: Stunning buildings line the Graslei quay on the right bank of the Leie River.
 
 - src: B_IMG_3745.JPEG
-  title: Ghent
+  title: |
+    Ghent: Stunning buildings line the Graslei quay on the right bank of the Leie River.
 
 - src: B_IMG_3746.JPEG
-  title: Ghent
+  title: |
+    Ghent: Stunning buildings line the Graslei quay on the right bank of the Leie River.
 
 - src: B_IMG_3748.JPEG
-  title: Ghent
+  title: |
+    Ghent: The Gravensteen Castle, a medieval fortress was only taken over once since it was built in 1180—in 1949, when 138 University of Ghent students seized it to protest an increase in the price of beer.
 
 - src: B_IMG_3752.JPEG
-  title: Ghent
+  title: |
+    Ghent: Leie river.
 
 - src: B_IMG_3753.JPEG
-  title: Ghent
+  title: |
+    Ghent: Belfry of Ghent with a fire-breathing dragon overseeing the city (the dragon actually spits fire—only for truly big occasions, though).
 
 ---
