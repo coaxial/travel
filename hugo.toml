@@ -5,4 +5,4 @@ theme = 'gallery'
 copyright = 'All images under CC BY-NC-ND license'
 [params]
 defaultTheme = 'dark'
-timeout = 90000
+timeout = '90s'
