@@ -228,7 +228,7 @@ resources:
 
 - src: G_IMG_3255.JPEG
   title: |
-    Rouen: The Gros-Horloge (Great-Clock), a 14th century astronomical clock.
+    Rouen: The Gros-Horloge (Great Clock), a 14th century astronomical clock.
 
 - src: G_IMG_3260.JPEG
   title: Rouen
@@ -393,4 +393,62 @@ resources:
 
 - src: O_IMG_3925.JPEG
   title: Bayonne
+
+# Chenonceau
+- src: P_IMG_1148.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4182.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4189.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4190.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4203.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4209.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4216.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4220.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4224.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4227.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4229.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4230.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4240.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle and gardens.
+
+- src: P_IMG_4253.JPEG
+  title: |
+    Chenonceaux: Chenonceau castle; a royal treatment for a royal cat.
+
 ---
