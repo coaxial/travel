@@ -6,12 +6,20 @@ The Galoblog to share travel pictures.
 
 ## Run locally
 
+### Install git lfs
+
+```
+$ apt install git-lfs
+$ git lfs install
+```
+
 ### Clone repo
 
 ```
 $ git clone git@github.com:coaxial/travel.git
 $ cd travel
 $ git submodule update --init --recursive
+$ git lfs pull
 ```
 
 ### Install `hugo`
@@ -74,4 +82,4 @@ Put the images in the gallery's directory and order them using the frontmatter i
 
 ## Update theme
 
-`$git submodule update --remote --merge`
+`$ git submodule update --remote --merge`
