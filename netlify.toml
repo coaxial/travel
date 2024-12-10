@@ -7,6 +7,8 @@ GIT_LFS_ENABLED = true
 [build]
 publish = "public"
 command = """
+git lfs install &&
+git lfs pull &&
 convert -list font &&
 find content/ -type f \\( -iname "*.jpg" -o -iname "*.jpeg" \\) -print -exec convert {} -font "DejaVu-Sans-Bold" -gravity SouthEast -pointsize 24 -stroke black -strokewidth 1 -fill "#fffdc3" -annotate +10+10 "CC BY-NC-ND Traviole" {} \\; &&
 hugo --gc --minify && 
