@@ -103,4 +103,14 @@ resources:
 - src: B_IMG_4485.JPEG
   title: Berat
 
+# Himare
+- src: C_IMG_4512.JPEG
+  title: Himarë
+
+- src: C_IMG_4524.JPEG
+  title: Himarë
+
+- src: C_IMG_4526.JPEG
+  title: Himarë
+
 ---
