@@ -113,4 +113,28 @@ resources:
 - src: C_IMG_4526.JPEG
   title: Himarë
 
+# Sarandë
+- src: D_IMG_4543.JPEG
+  title: Sarandë
+
+- src: D_IMG_4547.JPEG
+  title: Sarandë
+
+- src: D_IMG_4549.JPEG
+  title: Sarandë
+
+- src: D_IMG_4554.JPEG
+  title: Sarandë
+
+- src: D_IMG_4555.JPEG
+  title: Sarandë
+
+- src: D_IMG_4556.JPEG
+  title: Sarandë
+
+- src: D_IMG_4571.JPEG
+  title: Sarandë
+
+- src: D_IMG_4578.JPEG
+  title: Sarandë
 ---
