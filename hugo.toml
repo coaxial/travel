@@ -3,6 +3,6 @@ languageCode = 'en-us'
 title = 'Traviole/Travels'
 theme = 'gallery'
 copyright = 'All images under CC BY-NC-ND license'
+timeout = '90s'
 [params]
 defaultTheme = 'dark'
-timeout = '90s'
