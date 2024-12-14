@@ -101,4 +101,27 @@ resources:
 - src: D_IMG_4852.JPEG
   title: Paxos-Longos
 
+# Ioannina
+- src: E_IMG_1430.JPEG
+  title: |
+      Ioannina: Ioannina Castle.
+
+- src: E_IMG_1435.JPEG
+  title: |
+      Ioannina: Ioannina Castle.
+
+- src: E_IMG_5013.JPEG
+  title: |
+      Ioannina: Ioannina Castle.
+
+- src: E_IMG_5038.JPEG
+  title: |
+      Ioannina: Ioannina Castle.
+
+- src: E_IMG_5062.JPEG
+  title: Ioannina
+  
+- src: E_IMG_5079.JPEG
+  title: Ioannina
+
 ---
