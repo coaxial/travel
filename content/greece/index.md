@@ -25,7 +25,7 @@ resources:
 - src: A_IMG_4622.JPEG
   title: Corfu
   
-  # Paxos
+  # Paxos-Gaios
 - src: B_IMG_1322.JPEG
   title: |
     Paxos-Gaios: We found an almond tree.
@@ -71,5 +71,28 @@ resources:
 
 - src: B_IMG_4779.JPEG
   title: Paxos-Gaios
+
+# Paxos-Lakka
+- src: C_IMG_4860.JPEG
+  title: Paxos-Lakka
+
+- src: C_IMG_4862_feature.JPEG
+  title: Paxos-Lakka
+
+- src: C_IMG_4870.JPEG
+  title: Paxos-Lakka
+
+- src: C_IMG_4888.JPEG
+  title: Paxos-Lakka
+
+- src: C_IMG_4894.JPEG
+  title: Paxos-Lakka
+
+- src: C_IMG_4902.JPEG
+  title: Paxos-Lakka
+
+- src: C_IMG_4911.JPEG
+  title: Paxos-Lakka
+
 
 ---
