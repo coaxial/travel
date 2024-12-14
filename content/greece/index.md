@@ -94,5 +94,14 @@ resources:
 - src: C_IMG_4911.JPEG
   title: Paxos-Lakka
 
+# Paxos-Longos
+- src: D_IMG_4831.JPEG
+  title: Paxos-Longos
+
+- src: D_IMG_4839.JPEG
+  title: Paxos-Longos
+
+- src: D_IMG_4852.JPEG
+  title: Paxos-Longos
 
 ---
