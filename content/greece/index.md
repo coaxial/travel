@@ -82,9 +82,6 @@ resources:
 - src: C_IMG_4870.JPEG
   title: Paxos-Lakka
 
-- src: C_IMG_4888.JPEG
-  title: Paxos-Lakka
-
 - src: C_IMG_4894.JPEG
   title: Paxos-Lakka
 
