@@ -366,4 +366,8 @@ resources:
 - src: G_IMG_5870.JPEG
   title: |
     Athens: Walls of Athens are full of art. Sonke is perhaps the most recognizable artist in Athens.
+
+- src: G_IMG_5886.JPEG
+  title: |
+    Athens: Dromeas (The Runner) is a 9m tall sculpture composed of stacked plates of glass, which give it a dynamic appearance.
 ---
