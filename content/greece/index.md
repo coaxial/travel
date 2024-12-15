@@ -124,4 +124,143 @@ resources:
 - src: E_IMG_5079.JPEG
   title: Ioannina
 
+# Kalabaka
+- src: F_IMG_1495.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_1520.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_1552.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_1580.JPEG
+  title: |
+    Meteora: Monastery of Saint Stephen (converted to a nunnery).
+
+- src: F_IMG_5150.JPEG
+  title: Kalabaka
+
+- src: F_IMG_5151.JPEG
+  title: Kalabaka
+
+- src: F_IMG_5152.JPEG
+  title: Kalabaka
+
+- src: F_IMG_5208.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5216.JPEG
+  title: |
+    Meteora: Old kitchen in the Monastery of the Great Meteoron.
+
+- src: F_IMG_5222.JPEG
+  title: Meteora
+
+- src: F_IMG_5232.JPEG
+  title: |
+    Meteora: Holy Monastery of Rousanou.
+
+- src: F_IMG_5233.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5235.JPEG
+  title: Meteora
+
+- src: F_IMG_5237.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5239.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5240.JPEG
+  title: |
+    Meteora: A persimmon tree in the Varlaam Monastery.
+
+- src: F_IMG_5247.JPEG
+  title: |
+    Meteora: Holy Monastery of Rousanou.
+
+- src: F_IMG_5249.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5251.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5265.JPEG
+  title: |
+    Meteora: Varlaam Monastery.
+
+- src: F_IMG_5269.JPEG
+  title: |
+    Meteora: Holy Monastery of Rousanou.
+
+- src: F_IMG_5275.JPEG
+  title: |
+    Meteora: Monasteries.
+
+- src: F_IMG_5300.JPEG
+  title: |
+    Meteora: Holy Monastery of Rousanou.
+
+- src: F_IMG_5307.JPEG
+  title: |
+    Meteora: Waiting for the sunset.
+
+- src: F_IMG_5312.JPEG
+  title: |
+    Meteora: Incredible sunset over the rock formations.
+
+- src: F_IMG_5335.JPEG
+  title: Meteora
+
+- src: F_IMG_5360.JPEG
+  title: Meteora
+
+- src: F_IMG_5362.JPEG
+  title: |
+    Meteora: Monasteries.
+
+- src: F_IMG_5391.JPEG
+  title: |
+    Meteora: View of Kalabaka from the Holy Trinity Monastery.
+
+- src: F_IMG_5398.JPEG
+  title: |
+    Meteora: View of Kalabaka from the Holy Trinity Monastery.
+
+- src: F_IMG_5407.JPEG
+  title: |
+    Meteora: Holy Trinity Monastery.
+
+- src: F_IMG_5410.JPEG
+  title: |
+    Meteora: Holy Trinity Monastery.
+
+- src: F_IMG_5429.JPEG
+  title: |
+    Meteora: We came across a highly territorial praying mantis that fiercely defended its space, dancing around and attacking whenever we got too close.
+
+- src: F_IMG_5433.JPEG
+  title: Kalabaka
+
+- src: F_IMG_5439.JPEG
+  title: |
+    Meteora: Monastery of Saint Stephen.
+
+- src: F_IMG_5462.JPEG
+  title: Kalabaka
+
+- src: F_IMG_5468.JPEG
+  title: Kalabaka
+
 ---
