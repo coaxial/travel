@@ -266,7 +266,7 @@ resources:
 # Athens
 - src: G_IMG_5498.JPEG
   title: |
-    Athens: Brettos bar is the oldes Athen's distilery, and one of the oldest bars in Europe. 
+    Athens: Brettos bar is the oldest Athen's distillery, and one of the oldest bars in Europe. 
   
 - src: G_IMG_5505.JPEG
   title: |
@@ -320,7 +320,7 @@ resources:
   
 - src: G_IMG_5665.JPEG
   title: |
-    Athens: View of the mount Mount Lycabettus from the Acropolis.
+    Athens: View of the Mount Lycabettus from the Acropolis.
   
 - src: G_IMG_5667.JPEG
   title: |
