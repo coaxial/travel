@@ -263,4 +263,111 @@ resources:
 - src: F_IMG_5468.JPEG
   title: Kalabaka
 
+# Athens
+- src: G_IMG_5498.JPEG
+  title: |
+    Athens: Brettos bar is the oldest Athen's distillery, and one of the oldest bars in Europe. 
+  
+- src: G_IMG_5505.JPEG
+  title: |
+    Athens: Anafiotika.
+
+- src: G_IMG_5510.JPEG
+  title: |
+    Athens: Anafiotika.
+  
+- src: G_IMG_5528.JPEG
+  title: |
+    Athens: The Mati (Eye) is a well-known symbol found in many cultures, intended to protect against the Kako Mati (Evil Eye). However, tradition states that you can only be affected by the evil eye if you believe in it!
+  
+- src: G_IMG_5539.JPEG
+  title: Athens
+  
+- src: G_IMG_5543.JPEG
+  title: Athens
+  
+- src: G_IMG_5565.JPEG
+  title: |
+    Athens: Church of St. Marina.
+  
+- src: G_IMG_5589.JPEG
+  title: |
+    Athens: Arch of Hadrian.
+  
+- src: G_IMG_5626.JPEG
+  title: |
+    Athens: The Odeon of Herodes Atticus (Herodeon).
+  
+- src: G_IMG_5627.JPEG
+  title: |
+    Athens: View of the city from the Acropolis.
+  
+- src: G_IMG_5634.JPEG
+  title: |
+    Athens: Acropolis.
+  
+- src: G_IMG_5637.JPEG
+  title: |
+    Athens: Acropolis.
+  
+- src: G_IMG_5642.JPEG
+  title: |
+    Athens: View of Philopappos Hill from the Acropolis, where the Prison of Socrates is located.
+  
+- src: G_IMG_5652.JPEG
+  title: |
+    Athens: The Parthenon is an ancient temple situated on the Acropolis, dedicated to the goddess Athena.
+  
+- src: G_IMG_5665.JPEG
+  title: |
+    Athens: View of the Mount Lycabettus from the Acropolis.
+  
+- src: G_IMG_5667.JPEG
+  title: |
+    Athens: Parthenon.
+  
+- src: G_IMG_5672.JPEG
+  title: |
+    Athens: The Erechtheion is an ancient Greek temple on the Acropolis of Athens, built to honor the goddess Athena and celebrate the city's greatness.
+  
+- src: G_IMG_5702.JPEG
+  title: |
+    Athens: The Odeon of Herodes Atticus (Herodeon) is a stone theater located on the slopes of the Acropolis. It was built by Herodes Atticus in honor of his wife, Regilla.
+  
+- src: G_IMG_5713.JPEG
+  title: |
+    Athens: Vallianeio Megaron; a former building of the National Library of Greece.
+  
+- src: G_IMG_5744.JPEG
+  title: |
+    Athens: Anafiotika.
+  
+- src: G_IMG_5755.JPEG
+  title: |
+    Athens: Anafiotika.
+  
+- src: G_IMG_5756.JPEG
+  title: |
+    Athens: Anafiotika is a tiny and very picturesque neighborhood in Athens, known for its Cycladic architecture. The builders of this area originated from an island named Anafi, which is where the name comes from.
+
+- src: G_IMG_5812.JPEG
+  title: |
+    Athens: View of the city from the Mount Lycabettus.
+  
+- src: G_IMG_5840.JPEG
+  title: Athens
+  
+- src: G_IMG_5854.JPEG
+  title: Athens
+  
+- src: G_IMG_5869.JPEG
+  title: Athens
+  
+- src: G_IMG_5870.JPEG
+  title: |
+    Athens: Walls of Athens are full of art. Sonke is perhaps the most recognizable artist in Athens.
+
+- src: G_IMG_5886.JPEG
+  title: |
+    Athens: Dromeas (The Runner) is a 9m tall sculpture composed of stacked plates of glass, which give it a dynamic appearance.
 ---
