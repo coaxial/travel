@@ -270,7 +270,7 @@ resources:
   
 - src: G_IMG_5505.JPEG
   title: |
-    Athens: Anafiotika is a tiny and very picturesque neighborhood in Athens, known for its Cycladic architecture.
+    Athens: Anafiotika.
 
 - src: G_IMG_5510.JPEG
   title: |
@@ -296,7 +296,7 @@ resources:
   
 - src: G_IMG_5626.JPEG
   title: |
-    Athens: The Odeon of Herodes Atticus (Herodeon) is a stone theater located on the slopes of the Acropolis. It was built by Herodes Atticus in honor of his wife, Regilla.
+    Athens: The Odeon of Herodes Atticus (Herodeon).
   
 - src: G_IMG_5627.JPEG
   title: |
@@ -315,34 +315,44 @@ resources:
     Athens: View of Philopappos Hill from the Acropolis, where the Prison of Socrates is located.
   
 - src: G_IMG_5652.JPEG
-  title: Athens
+  title: |
+    Athens: The Parthenon is an ancient temple situated on the Acropolis, dedicated to the goddess Athena.
   
 - src: G_IMG_5665.JPEG
-  title: Athens
+  title: |
+    Athens: View of the mount Mount Lycabettus from the Acropolis.
   
 - src: G_IMG_5667.JPEG
-  title: Athens
+  title: |
+    Athens: Parthenon.
   
 - src: G_IMG_5672.JPEG
-  title: Athens
+  title: |
+    Athens: The Erechtheion is an ancient Greek temple on the Acropolis of Athens, built to honor the goddess Athena and celebrate the city's greatness.
   
 - src: G_IMG_5702.JPEG
-  title: Athens
+  title: |
+    Athens: The Odeon of Herodes Atticus (Herodeon) is a stone theater located on the slopes of the Acropolis. It was built by Herodes Atticus in honor of his wife, Regilla.
   
 - src: G_IMG_5713.JPEG
-  title: Athens
+  title: |
+    Athens: Vallianeio Megaron; a former building of the National Library of Greece.
   
 - src: G_IMG_5744.JPEG
-  title: Athens
+  title: |
+    Athens: Anafiotika.
   
 - src: G_IMG_5755.JPEG
-  title: Athens
+  title: |
+    Athens: Anafiotika.
   
 - src: G_IMG_5756.JPEG
-  title: Athens
-  
+  title: |
+    Athens: Anafiotika is a tiny and very picturesque neighborhood in Athens, known for its Cycladic architecture. The builders of this area originated from an island named Anafi, which is where the name comes from.
+
 - src: G_IMG_5812.JPEG
-  title: Athens
+  title: |
+    Athens: View of the city from the Mount Lycabettus.
   
 - src: G_IMG_5840.JPEG
   title: Athens
@@ -354,6 +364,6 @@ resources:
   title: Athens
   
 - src: G_IMG_5870.JPEG
-  title: Athens
-
+  title: |
+    Athens: Walls of Athens are full of art. Sonke is perhaps the most recognizable artist in Athens.
 ---
