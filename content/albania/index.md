@@ -29,7 +29,7 @@ resources:
 
 - src: A_IMG_4321.JPEG
   title: |
-    Tirana: Downtown One Tower. An interesting feature of this tower is its uneven facade, which creates a map of Albania, with each part representing a town or city (visible only partially on the picture).
+    Tirana: Downtown One Tower. An interesting feature of this tower is its uneven facade, creating a map of Albania, with each part representing a town or city (visible only partially in the picture).
 
 - src: A_IMG_4329.JPEG
   title: |
