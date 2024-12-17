@@ -69,7 +69,7 @@ resources:
 
 - src: C_IMG_2666.JPEG
   title: |
-    Le Havre: Catène de Containers - instalation by Vincent Ganivet built in 2017 to celebrate 500 anniversary of the Le Havre city. It’s 29m high and it’s made of 38 painted containers.
+    Le Havre: Catène de Containers - installation by Vincent Ganivet built in 2017 to celebrate the 500th anniversary of the city of Le Havre.. It’s 29m high and it’s made of 38 painted containers.
 
 - src: C_IMG_2894.JPEG
   title: |
@@ -176,7 +176,7 @@ resources:
 
 - src: E_IMG_2938.JPEG
   title: |
-    Sainte-Adresse: Fallen blockhouse that were part of the German Atlantic Wall built during World War II.
+    Sainte-Adresse: Fallen blockhouses that were part of the German Atlantic Wall built during World War II.
 
 - src: E_IMG_2966.JPEG
   title: Sainte-Adresse
@@ -270,7 +270,7 @@ resources:
   # Le Crotoy
 - src: K_IMG_3533.JPEG
   title: |
-    Le Crotoy: Beautiful sea marshes full of wild life.
+    Le Crotoy: Beautiful sea marshes full of wildlife.
 
 - src: K_IMG_3536.JPEG
   title: Le Crotoy

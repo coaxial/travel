@@ -33,7 +33,7 @@ resources:
 
 - src: A_IMG_3783.JPEG
   title: |
-    Brussels: One of not many places where you still can play unlimited pinball. 
+    Brussels: One of the few places where you can still play unlimited pinball. 
 
 - src: A_IMG_3802.JPEG
   title: Brussels
@@ -64,11 +64,11 @@ resources:
 
 - src: B_IMG_3748.JPEG
   title: |
-    Ghent: The Gravensteen Castle, a medieval fortress was only taken over once since it was built in 1180—in 1949, when 138 University of Ghent students seized it to protest an increase in the price of beer.
+    Ghent: The Gravensteen Castle, a medieval fortress, was only taken over once since it was built in 1180—in 1949, when 138 University of Ghent students seized it to protest an increase in the price of beer.
 
 - src: B_IMG_3752.JPEG
   title: |
-    Ghent: Leie river.
+    Ghent: Leie River.
 
 - src: B_IMG_3753.JPEG
   title: |

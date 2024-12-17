@@ -266,7 +266,7 @@ resources:
 # Athens
 - src: G_IMG_5498.JPEG
   title: |
-    Athens: Brettos bar is the oldest Athen's distillery, and one of the oldest bars in Europe. 
+    Athens: Brettos bar is the oldest Athens' distillery, and one of the oldest bars in Europe. 
   
 - src: G_IMG_5505.JPEG
   title: |
@@ -365,7 +365,7 @@ resources:
   
 - src: G_IMG_5870.JPEG
   title: |
-    Athens: Walls of Athens are full of art. Sonke is perhaps the most recognizable artist in Athens.
+    Athens: Walls of Athens are full of art, Sonke is perhaps the most recognizable artist in Athens.
 
 - src: G_IMG_5886.JPEG
   title: |
