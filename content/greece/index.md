@@ -1,7 +1,7 @@
 ---
 title: Greece
-featured: true
-private: true # do not show in list, only as feature
+featured: false
+private: false # do not show in list, only as feature
 params:
   sort_order: desc 
 
