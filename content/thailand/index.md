@@ -240,7 +240,7 @@ resources:
   title: |
     Bangkok: Jim Thompson House.
 
-- src: A_IMG_6311.JPEG
+- src: A_IMG_6316.JPEG
   title: |
     Bangkok: Jim Thompson House. Jim Thompson was an American businessman who moved to Thailand after World War II. He is credited for saving Thailand's silk industry from extinction. He vanished without a trace while traveling to Malaysia, leaving behind a lingering mystery.
 
